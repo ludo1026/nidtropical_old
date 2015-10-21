@@ -1,0 +1,83 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	CHANGELOG
+//---------------------------------------------------------------------------------------------------
+
+v1.6	Hungary translation added.
+	Deutch translation updated.
+	Possibility to save an editing file whithout quitting. A button CLOSE has been added.
+	Files are displayed into an external window.
+	Action "Download" for files has been added.
+	All directories telling the path are links for navigation (at the top of the page).
+	Show hidden files or not.
+	Total file size of the directory is displayed.
+	Icon for FLASH files added.
+	Icon for HTML documents depends on client browser (IE or Netscape).
+	User can change language.
+
+v1.51	Bug fixed about uploading file on windows/easyphp.
+	".inc", ".sql" and ".phtml" files can now be edited.
+	No more error messages when copying and source file doesn't exists.
+	Better graphic design.
+	Russian translation added.
+
+v1.5	You can add a # at the begining of a line to desactive an user, in the users.txt file.
+	Chinese and Lithuanian languages added.
+	Mime types MOV, PDF, AVI, MPG and MPEG added.
+	Fix about extension files an deleting directories.
+	Modified time of files displayed whith date, hours and minutes.
+	An HTML template is created automaticly when creating an new .htm or .html file.
+	Listing optimized (it's now perfect). You can list by name, size, date...
+	Help files added.
+
+v1.1	Choice of users management or not.
+	French sentences are definitly removed from the index.php3 file. (You can send me corrected languages lib).
+	Choice of background color of table lines, choice of font.
+	More answers into the FAQ.
+	Best use of file names and deleting files.
+
+v1.0	You can create files.
+	Function "Move" available.
+	Special chars <,",> and spaces are no longer accepted for directory and file names.
+	Header and footer files to personalize your Filemanager.
+	You can define the maximum number of chars for file and directory names.
+	All files has been mixed definitly in one file "index.php3" (except language files).
+	Possibility to show confirmation messages or not.
+	Optimisation of some GIF pictures.
+	
+v0.84	Added function "COPY".
+	Mime types DOC and XLS added.
+	Uploading JS in ASCII Mode, and editing JS files available.
+	Deutch, Estonian and Italian languages added.
+	No automatic carriage return in edit mode.
+	Choice of the file size unit (octets or bytes) available.
+
+v0.8	Users management with login, password and "home" directory
+	Mime types RAR and GZ added.
+	Uploading TXT, HTML, HTM, PHP, PHP3, HTACCESS, HTPASSWD, PL and CGI file in ASCII Mode
+	(to avoid ^M at end of lines)
+
+v0.72	Bug fixed in the edit script, the text area was closed if "</textarea>" was found in the code
+	All scripts are mixed into one file
+	Bug fixed with the deldir() function, a "rmdir()" was done twice
+	Link to the root added
+		
+v0.71	In the "editer.php3" script, the "cancel" button didn't work on Windows
+	Icones BMP, PNG, CSS, MP3 added
+	Languages Sovak ans Poland added
+	
+v0.7	The function "Edit files" is available
+	The EXE icon has been added
+	You can now click on icons
+	The root path has been deleted from the full path of the current directory
+	The "parent directory" link has been inserted into the table
+	Table colors has been modified to blue

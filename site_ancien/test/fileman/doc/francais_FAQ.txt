@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	F.A.Q.
+//---------------------------------------------------------------------------------------------------
+
+- JE NE CONNAIS PAS LE CHEMIN DU REPERTOIRE RACINE, COMMENT FAIRE ?
+Placez un script PHP sur votre site contenant uniquement le code suivant : <? phpinfo(); ?>
+Copiez le chemin indiqué en face de la variable : OPEN_BASEDIR (en retirant le dernier caractère "/" s'il est présent).
+Si vous avez "no value", dans ce cas, cherchez la variable PATH_TRANSLATED (et retirez le nom du fichier à la fin).
+Exemple : PATH_TRANSLATED vaut d:\www\phpinfo.php3
+Le répertoire racine de votre site sera d:/www
+Si ces variables sont cachées par votre hébergeur (ex : Multimania), changez d'hébergeur !  ;o)
+
+- MON LOGIN ET MON MOT DE PASSE SONT CORRECTS MAIS JE SUIS REDIRIGE SUR LA PAGE "index.php3" ?
+La variable "$installurl" du fichier "prive/conf.php3" est invalide.
+
+- A QUOI SERT LE REPERTOIRE "logs" ?
+Il contient des fichiers indiquant les paramètres utilisés par chaque utilisateurs. Ces fichiers sont créés à chaque 
+connexion et supprimés automatiquement à la déconnexion, ou aprés 24h, le cas échéant.
+
+- J'AI UNE ERREUR LORS DU TRANSFERT DE FICHIERS.
+Si votre version de PHP est supérieure ou égale à 4.0.3, remplacez
+if (!copy($userfile, "$destination/$userfile_name"))
+par
+if (!move_uploaded_file($userfile, "$destination/$userfile_name"))
+dans le fichier "index.php3".
+
+- UNE ERREUR SE PRODUIT LORS DU TRANSFERT DE FICHIERS SUR UN SERVEUR WINDOWS NT !
+Dans le fichier de configuration PHP.INI, vous devez spécifier le répertoire de destination temporaire : "upload_tmp_dir". Mettez par exemple, "C:\TEMP". 
+Vérifiez également que "magic_quotes_gpc" vauf "Off".
+
+- JE NE PEUX PAS TRANSFERER DES FICHIERS SUPERIEURS A 2 Mo !
+Vous devez augmenter la variable "upload_max_filesize" qui vaut par défaut 2097152 octets (2 Mo).
+Pensez aussi à augmenter la valeur de la variable "max_execution_time" pour eviter que le temps d'exécution du script soit dépassé.
+Dans le cas de gros fichiers, vérifiez également les variables "post_max_size" et "memory_limit".

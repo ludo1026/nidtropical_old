@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Situer les hébergements à louer de Nid Tropical et descriptif du parcours pour arriver jusqu'à Malendure (Bouillante) en Guadeloupe</title>
+	<meta name="description" content="Nos locations de bungalows, gites et appartement se trouvent au dessus de la plage de malendure en face des ilets pigeon et de la réserve cousteau à bouillante - Guadeloupe">
+	<meta name="keywords" content="location guadeloupe, sejour antilles pas cher, bungalow, bungalows, location bungalow guadeloupe, gite, gites, location gite, appartement, villa, location bouillante, bouillante, hebergement">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+	<!--[if lt IE 9]> 
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
+	<![endif]-->
+	<link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="hebergement">
+
+<div>
+
+	<!-- En-tête de la page : Début-->
+	<div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
+			
+		<div class="langue"><a href="http://www.en.nidtropical.com/" title="Version anglaise du site"><img src="images/header/drapeau-anglais.gif" width="69" height="35" alt="Drapeau anglais"></a></div>
+			
+		<header class="logo" role="banner">
+			<img src="images/header/logo_nidtropical.gif" alt="Nid Tropical, location gite et bungalow à Bouillante en Guadeloupe" width="450" height="174">
+			<h1>
+				<span itemprop="name">Le nid tropical : </span>
+				<span itemprop="description"> Location bungalows, gites, appartement en guadeloupe - bouillante </span>			
+			</h1>
+			<div class="addresse">
+				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Morne TARARE </span>- <span itemprop="postalCode">97125</span>
+					<span itemprop="addressLocality">BOUILLANTE</span>
+					<span itemprop="addressCountry"> - Guadeloupe</span>
+				</address>	
+				<div>
+					Tél./Fax : <span itemprop="telephone" content="+590590987205">05 90 98 72 05</span> - Mobile : <span itemprop="telephone" content="+590690406348">06 90 40 63 48</span>
+				</div>
+			</div>
+		</header>
+			
+		<div class="courrier">
+			<div><a href="mailto:gite@nidtropical.com" itemprop="email">gite@nidtropical.com</a></div>
+			<h2>Situer le Nid Tropical</h2>
+		</div>
+	</div>
+	<!-- En-tête de la page : Fin-->
+
+	<!-- Centre de la page : Début-->
+	<div class="container">
+
+		<div class="section">
+	
+			<!-- Menu de la page : Début -->
+			<nav class="menu" role="navigation">
+				<ul>
+					<li>
+						<a href="/">Accueil</a>
+					</li>
+					<li>
+						<a href="location-gites-en-guadeloupe.php">Gîte</a>
+					</li>
+					<li>
+						<a href="location-bungalow-guadeloupe.php">Bungalow</a>
+					</li>
+					<li>
+						<a href="location-appartements-guadeloupe.php">Appartement</a>
+					</li>
+					<li>
+						<a href="voyage-pas-cher-en-guadeloupe.html">Tarifs</a>
+					</li>
+					<li>
+						<a href="location-vacances-bouillante.html">Situation</a>
+					</li>
+					<li>
+						<a href="plongee-malendure.html">Activités</a>
+					</li>
+					<li>
+						<a href="partenaires.html">Partenaires</a>
+					</li>
+					<li>
+						<a href="contact.php">Contact</a>
+					</li>
+				</ul>
+			</nav>	
+			<!-- Menu de la page : Fin -->
+			
+		</div>	
+			
+		<!-- Coeur de la page : Début-->
+		<main class="main"  role="main">
+		
+			<h1>Pour situer Nid tropical et ses hébergements sur Bouillante/Malendure en Guadeloupe, suivez le guide !</h1>
+		
+			<article role="article">
+			
+				<div class="iframe">
+                	<iframe src="https://mapsengine.google.com/map/embed?mid=zm6zyWZfk0rM.kZdbTEbQf4AQ" width="640" height="480"></iframe>
+					<br />
+					<small><a href="https://maps.google.com/maps?f=q&source=embed&hl=fr&geocode&q=Le+Nid+Tropical,+Morne+Tarare,+Bouillante,+France&aq=0&oq=nid+trop&sll=37.0625,-95.677068&sspn=38.638819,86.572266&t=h&ie=UTF8&ll=16.215993,-61.586609&spn=0.659325,0.894012&z=10&iwloc=lyrftr:starred_items:106233642935868248418:,15437087927170817979,16.168186,-61.774235&output=classic&dg=brw" target="_blank">Agrandir le plan</a></small>
+				</div>
+				
+			    <p>Au coeur d'un parc tropical, à 40 mètres d'altitude, au dessus de la <strong>plage de Malendure</strong>, en face des <strong>Îlets Pigeon</strong> et de la célèbre <strong>Réserve Cousteau</strong> paradis des plongeurs, <strong>Sylvie et Jean Pierre vous attendent au Nid Tropical à Bouillante pour un séjour de rêves aux Antilles</strong>.</p>
+
+				<p>Situés sur l'Île de la Basse Terre, nos <strong>gîtes, bungalows et appartement en location</strong> sont à proximité de toutes <strong>les activités sportives et touristiques de la Guadeloupe</strong> : Soufrière, Domaine de Coluche, Maison du café, col des Mamelles, cascade aux Ecrevisses, chutes du carbet, et bien d'autres.</p>
+				
+				<p>Pour votre quotidien, tous les commerces, petits restaurants, médecins, pharmacien sont à 300 mètres de nos hébergements.</p>
+
+
+				<aside role="complementary">
+					<h2>Parcours pour arriver jusqu'au Nid Tropical à Bouillante</h2>
+					
+					<p>Depuis l'aéroport, un trajet de 45 à 50 mn environ vous amène à votre destination de vacances :</p>
+					
+					<ul>
+						<li>Au départ de l'aéroport, prendre la file de gauche vers BASSE-TERRE.</li>
+						<li>Au 2ème rond-point de la rocade N1 prendre à droite.</li>
+						<li>Prendre à droite direction Basse-Terre, vous vous retrouvez sur une deuxième rocade. Après quelques km, sortir direction BOUILLANTE/POINTE-NOIRE route de la TRAVERSEE; D 23.</li>
+						<li>Suivez cette route (17 km), vous passerez devant la cascade aux écrevisses, la maison de la forêt, le col des mamelles.</li> 
+						<li>En bas la descente et en arrivant sur la côte caraïbe, tournez à gauche, direction Bouillante.</li>
+						<li>Au bout de 5 km, vous passerez devant la plage de Malendure, continuez, puis 1 km plus loin, vous prendrez la rue à gauche juste avant un pont et avant la station VITO et le centre commercial.</li>
+						<li>Tout en haut de la côte, il y a un grand parking. Le Nid Tropical est en contre-bas à gauche, vous êtes arrivés !</li>
+						<li>Nous vous conseillons d'imprimer cette page pour arriver simplement au Nid Tropical sans souci.</li>
+					</ul>
+				</aside>
+
+			</article>
+			
+		</main>
+		<!-- Coeur de la page : Fin-->
+		
+	</div>
+	<!-- Centre de la page : Fin-->
+
+	<!-- Footer : Début-->
+	<footer class="container footer" role="contentinfo">
+		  
+			<div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
+				<span itemprop="name">SCI Gîte bungalow LE NID TROPICAL</span>
+				<span itemprop="description"> - <strong>Hébergement / Location gites et bungalows créoles pour séjour en Guadeloupe</strong></span>
+				<br />					
+				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Morne TARARE </span>- <span itemprop="postalCode">97125</span>
+					<span itemprop="addressLocality">BOUILLANTE </span>-
+					<span itemprop="addressCountry"> Guadeloupe </span>-
+				</address>	
+				Tél./Fax : <span itemprop="telephone" content="+590590987205">05 90 98 72 05</span> - Mobile : <span itemprop="telephone" content="+590690406348">06 90 40 63 48</span>
+				 - <a href="mailto:gite@nidtropical.com" itemprop="email">gite@nidtropical.com</a>
+			</div>
+	</footer>
+	<!-- Footer : Fin-->
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+  ga('create', 'UA-24336933-1', 'nidtropical.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

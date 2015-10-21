@@ -1,0 +1,45 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	INSTALLATION
+//---------------------------------------------------------------------------------------------------
+
+1) Modifier les variables de la partie VARIABLES A MODIFIER du fichier "prive/index.php3"
+2) Editez le fichier "prive/users.txt" pour créer, modifier ou supprimer des utilisateurs. 
+Chaque ligne définie un utilisateur de la façon suivante :
+répertoire_racine;url_du_répertoire_racine;login;mot_de_passe
+Exemple sur un serveur WINDOWS : D:/www/perso/free/filemanager/demo;http://localhost/perso/free/filemanager/demo;demo;test
+Exemple sur un serveur UNIX : /var/www/free.fr/1/j/e/f/f/jeffgazet/filemanager/demo;http://jeffgazet.free.fr/filemanager/demo;demo;test
+Vous pouvez ajouter un # en début de ligne pour désactiver un utilisateur.
+Reportez-vous à la FAQ pour plus d'infos.
+3) Placez les fichiers et répertoires dans un même répertoire sur votre serveur
+4) Saisissez l'URL du script "index.php3" dans votre navigateur
+
+Pour rester informé des mises à jour de ce script, rendez-vous sur http://www.webjeff.org
+et inscrivez-vous dans la page "scripts PHP".
+
+Merci de me signaler tout bug, commentaire ou suggestion à webmaster@webjeff.org pour faire évoluer ce script.
+
+
+
+//---------------------------------------------------------------------------------------------------
+//	REMERCIEMENTS	
+//---------------------------------------------------------------------------------------------------
+
+à Marcin Wabik pour la traduction POLONAISE
+à Lubomir Troppa pour la traduction SLOVAQUE
+à Giovanni Ferri pour la traduction ITALIENNE
+à Wolfgang Braun pour la traduction ALLEMANDE
+à Juhan Aasaru pour la traduction ESTONIENNE
+à Zygimantas Berziunas pour la traduction LITHUANIENNE
+à Lin Song pour la traduction CHINOISE
+à Alexander Stepanets pour la traduction RUSSE
+à Attila Pergel pour la traduction HONGROISE

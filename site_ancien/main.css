@@ -1,0 +1,174 @@
+/* CSS Document */
+
+body {
+	background-color: #FFFFCC;
+	background-repeat: repeat-x;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin: 0;
+}
+
+h1 {
+	color: #333385;
+	font-size: 20px;
+	font-variant: small-caps;
+	margin: 5px 0 20px 0;
+}
+
+h2 {
+	color: #333385;
+	font-size: 16px;
+	font-variant: small-caps;
+	margin: 14px 0 10px 0;
+}
+
+a {
+	color: #DE0818;
+}
+
+ul li {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin-bottom: 10px;
+}
+
+.main {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+.main-content {
+	align: center;
+	height: 100%;
+	width: 1150px;
+	text-align: left;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+
+.header {
+	height: 100px;
+	padding: 10px;
+	font-size: 12px;
+	vertical-align: top;
+}
+
+.menu {
+	width: 150px;
+	padding: 10px;
+	vertical-align: top;
+	text-align: center;
+}
+
+.body {
+	height: 100%;
+	width: 1000px;
+	text-align: left;
+	padding-left: 15px;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.body-left {
+	float:left;
+	width: 49%;
+}
+
+.body-right {
+	float:right;
+	width: 49%;
+}
+
+.menu ul {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.menu ul li {
+	background-image: url("../images/menu/bouton.gif");
+	background-repeat: no-repeat;
+	padding: 10px 0px 10px 0px;
+	margin: 10px 0px 10px 0px;
+	color: black;
+	width: 153px;
+}
+
+.menu ul li a {
+	font-size: 16px;
+	font-variant: small-caps;
+	font-weight: bold;
+	color: blue;
+	width: 153px;
+}
+
+.footer {
+	height: 35px;
+	padding: 7px 0px 0px 0px;
+	font-size: 10px;
+	vertical-align: top;
+	text-align: center;
+}
+
+
+
+.texte {
+	color: #000000;
+	font-size: 14px;
+	font-variant: normal;
+	margin: 15px 0 5px 0;
+}
+
+.texte ul {
+	margin-bottom: 0px;
+}
+
+.texte ul li {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: disc;
+	margin-bottom: 10px;
+}
+
+.texte-alerte {
+	color: #FF0000;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.header .langue {
+	float: left;
+	margin: 25px 0px 0px 20px;
+}
+
+.header .logo {
+	float: left;
+	background-image: url("../images/header/nidtropical.jpg");
+	margin: 0px 0px 0px 165px;
+	padding: 125px 65px 20px 125px;
+	color: #333385;
+	font-size: 12px;
+	font-variant: normal;
+}
+
+.header .courrier {
+	float: left;
+	background-image: url("../images/header/oiseau-courrier.gif");
+	background-repeat: no-repeat;
+	background-position: 20px 0px;
+	padding: 80px 0px 0px 0px;
+	margin: 15px 0px 0px 40px;
+}
+
+.header .courrier div {
+	margin: 15px 0px 0px 20px;
+}
+
+.Style1 {
+	color: #0000A0;
+	font-style: italic;
+	font-weight: bold;
+}

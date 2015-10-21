@@ -1,0 +1,5 @@
+#D:/EasyPHP/www/tmp;http://localhost/tmp;demo;test
+#D:/www/tmp;http://localhost/tmp;demo;test
+#C:/jeff/phpdev/www/tmp/toto;http://localhost/tmp/toto;demo;test
+#/var/www/free.fr/1/j/e/f/f/jeffgazet/filemanager/demo;http://jeffgazet.free.fr/filemanager/demo;demo;test
+../;http://www.nidtropical.com/test;test;test

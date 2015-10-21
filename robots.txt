@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /site_ancien
+Disallow: /ancien
+Disallow: /facturation nid
+Disallow: /images
+Disallow: /logs
+Disallow: /admin
+Disallow: /images/tarif
+
+

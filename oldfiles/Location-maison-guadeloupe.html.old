@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>Location d'une villa à Malendure face à la réserve Cousteau sur Bouillante en Guadeloupe - Hébergement en partenariat avec Nid Tropical</title>
+	<meta name="description" content="A 5mn de la plage de malendure et de la réserve Cousteau, profitez de la location de cette villa pour 7 personnes pour passer des vacances à Bouillante en Guadeloupe. Nid Tropical loue cette villa en partenariat avec la SCI les Dauphins">
+	<meta name="keywords" content="location guadeloupe, sejour antilles pas cher, bungalow, bungalows, location bungalow guadeloupe, gite, gites, location gite, appartement, villa, location bouillante, bouillante, hebergement">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+	<!--[if lt IE 9]> 
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
+	<![endif]-->
+	<link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="hebergement">
+
+<div>
+
+	<!-- En-tête de la page : Début-->
+	<div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
+			
+		<div class="langue"><a href="http://en.nidtropical.com/" title="Version anglaise du site"><img src="images/header/drapeau-anglais.gif" width="69" height="35" alt="Drapeau anglais"></a></div>
+			
+		<header class="logo" role="banner">
+			<img src="images/header/logo_nidtropical.gif" alt="Nid Tropical, location villa à Bouillante en Guadeloupe" width="450" height="174">
+			<h1>
+				<span itemprop="name">Le nid tropical : </span>
+				<span itemprop="description"> Location bungalows, gites, appartement en guadeloupe - bouillante </span>			
+			</h1>
+			<div class="addresse">
+				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Morne TARARE </span>- <span itemprop="postalCode">97125</span>
+					<span itemprop="addressLocality">BOUILLANTE</span>
+					<span itemprop="addressCountry"> - Guadeloupe</span>
+				</address>	
+				<div>
+					Tél./Fax : <span itemprop="telephone" content="+590590987205">05 90 98 72 05</span> - Mobile : <span itemprop="telephone" content="+590690406348">06 90 40 63 48</span>
+				</div>
+			</div>
+		</header>
+			
+		<div class="courrier">
+			<div><a href="mailto:gite@nidtropical.com" itemprop="email">gite@nidtropical.com</a></div>
+			<h2>Maison Guadeloupe</h2>
+		</div>
+	</div>
+	<!-- En-tête de la page : Fin-->
+
+	<!-- Centre de la page : Début-->
+	<div class="container">
+
+		<div class="section">
+	
+			<!-- Menu de la page : Début -->
+			<nav class="menu" role="navigation">
+				<ul>
+					<li>
+						<a href="/">Accueil</a>
+					</li>
+					<li>
+						<a href="location-gites-en-guadeloupe.php">Gîte</a>
+					</li>
+					<li>
+						<a href="location-bungalow-guadeloupe.php">Bungalow</a>
+					</li>
+					<li>
+						<a href="location-appartements-guadeloupe.php">Appartement</a>
+					</li>
+					<li>
+						<a href="voyage-pas-cher-en-guadeloupe.html">Tarifs</a>
+					</li>
+					<li>
+						<a href="location-vacances-bouillante.html">Situation</a>
+					</li>
+					<li>
+						<a href="plongee-malendure.html">Activités</a>
+					</li>
+					<li>
+						<a href="partenaires.html">Partenaires</a>
+					</li>
+					<li>
+						<a href="contact.php">Contact</a>
+					</li>
+				</ul>
+			</nav>	
+			<!-- Menu de la page : Fin -->
+		
+		</div>	
+			
+		<!-- Coeur de la page : Début-->
+		<main class="main"  role="main">
+		
+			<article role="article">
+	
+				<h1>Delphine & Philippe vous proposent en partenariat avec le Nid Tropical une villa sur Malendure / Bouillante</h1>
+				
+				<figure>
+					<img src="images/villa/vacancescaraibes.jpg" alt="Plage de Malendure à Bouillante" width="200" height="356" />  
+				</figure>
+				
+				<p>Cette villa pour 7 personnes est située dans le quartier résidentiel de la réserve Cousteau en Guadeloupe, à 5mn à pieds de la plage de Malendure, avec une superbe vue mer.</p>
+				
+				<h2>Descriptif de la villa à louer :</h2>
+				
+				<ul>
+					<li>capacité : 7 personnes</li>
+					<li>deux chambres climatisées + 1 chambre mezzanine climatisée</li>
+					<li>salon TV avec coin repas</li>
+					<li>cuisine américaine super aménagée</li>
+					<li>2 salles d'eau wc</li>
+					<li>1 grande terrasse extérieure avec son coin bar et coin repas, le tout avec vue sur  mer</li>
+				</ul>	
+				
+				<p>Toutes les ouvertures à clayettes ont des moustiquaires.</p>
+				
+				<p>Cette villa n'est pas piscinée.</p>
+				
+				<p>Pour tous les détails, tarifs et réservation adressez vous à : <a href="mailto:phillippebrottier@gmail.com"><strong>Philippe & Delphine</strong></a></p>
+				
+				<p>Pour réserver cette villa à Bouillante Guadeloupe, il faut nous confirmer par mail votre réservation et sous huitaine, verser des arrhes de confirmation de 50% en chèque, accompagné du <a href="images/tarif/CONTRAT_DE_LOCATION_dauphins.pdf" target="_blank" title="Télécharger le contrat de location en version pdf"><strong>contrat de location</strong></a>  (cliquez pour télécharger le contrat de location en pdf) à lire attentivement, à remplir et à envoyer à <strong>Philippe BROTTIER, 38 route de Poitiers 86240 FONTAINE LE COMTE</strong>. En retour vous recevrez un accusé de réception.</p>
+
+				<aside role="complementary">
+					<h2>Grille des tarifs de la villa à louer sur Bouillante</h2>
+					
+					<table>
+					  <tr>
+						<td><h3>Tarifs 2014/2015</h3></td>
+						<td>
+							<p>Semaine</p>
+						  	<p><strong>1 chambre</strong></p>
+							<p>2 personnes</p>
+						</td>
+						<td>
+							<p>Semaine</p>
+						  	<p><strong>2 chambres</strong></p>
+							<p>4 personnes</p>
+						</td>
+						<td>
+							<p>Semaine</p>
+						  	<p><strong>2 chambres <br />+ 1 mezzanine</strong></p>
+							<p>7 personnes</p>
+						</td>
+					  </tr>
+					  <tr>
+						<td><h4>Haute saison du 1/12/13 au 15/05/14</h4></td>
+						<td>500</td>
+						<td>720</td>
+						<td>930</td>
+					  </tr>
+					  <tr>
+						<td><h4>Moyenne saison du 06/07/14 au 31/08/14</h4></td>
+						<td>450</td>
+						<td>680</td>
+						<td>890</td>
+					  </tr>
+					  <tr>
+						<td><h4>Basse saison du 16/05/14 au 05/07/14 et du 21/10/14 au 30/11/14</h4></td>
+						<td>400</td>
+						<td>610</td>
+						<td>810</td>
+					  </tr>
+					</table>
+
+					<h2>Photos de la villa</h2>
+			
+					<div class="fotorama" data-width="791" data-ratio="3/2" data-nav="thumbs"> 
+					  <a href="images/villa/villa-entree.jpg"><img src="images/villa/miniature/villa-entree.jpg" alt="villa à louer à Bouillante Malendure"></a>
+					  <a href="images/villa/villa-terrasse.jpg"><img src="images/villa/miniature/villa-terrasse.jpg" alt="terrasse de la villa en location guadeloupe"></a>
+					  <a href="images/villa/villa-vue-mer.jpg"><img src="images/villa/miniature/villa-vue-mer.jpg" alt="coin repas avec vue sur la mer caraibes"></a>
+					  <a href="images/villa/villa-bar.jpg"><img src="images/villa/miniature/villa-bar.jpg" alt="coin bar de la villa"></a>
+					  <a href="images/villa/villa-canape.jpg"><img src="images/villa/miniature/villa-canape.jpg" alt="coin salon avec canapé"></a>
+					  <a href="images/villa/villa-cuisine.jpg"><img src="images/villa/miniature/villa-cuisine.jpg" alt="cuisine de la villa bouillante"></a>
+					  <a href="images/villa/villa-cuisine-2.jpg"><img src="images/villa/miniature/villa-cuisine-2.jpg" alt="autre vue de la cuisine de la villa"></a>
+					  <a href="images/villa/villa-salon.jpg"><img src="images/villa/miniature/villa-salon.jpg" alt="villa bouillante, le salon"></a>
+					  <a href="images/villa/villa-salon-2.jpg"><img src="images/villa/miniature/villa-salon-2.jpg" alt="autre vue du salon"></a>
+					  <a href="images/villa/villa-salon-3.jpg"><img src="images/villa/miniature/villa-salon-3.jpg" alt="salon de la villa"></a>
+					  <a href="images/villa/villa-repasdelp.jpg"><img src="images/villa/miniature/villa-repasdelp.jpg" alt="coin cuisine"></a>
+					  <a href="images/villa/villa-interieur-guadeloupe.jpg"><img src="images/villa/miniature/villa-interieur-guadeloupe.jpg" alt="intérieure de la villa"></a>
+					  <a href="images/villa/villa-chambre-1.jpg"><img src="images/villa/miniature/villa-chambre-1.jpg" alt="une des chambres de la villa"></a>
+					  <a href="images/villa/villa-chambre-2.jpg"><img src="images/villa/miniature/villa-chambre-2.jpg" alt="autre vue de la chambre"></a>
+					  <a href="images/villa/villa-chambre-3.jpg"><img src="images/villa/miniature/villa-chambre-3.jpg" alt="la deuxième chambre de la villa"></a>
+					  <a href="images/villa/villa-mezzanine-1.jpg"><img src="images/villa/miniature/villa-mezzanine-1.jpg" alt="mezzanine chambres"></a>
+					  <a href="images/villa/villa-mezzanine-2.jpg"><img src="images/villa/miniature/villa-mezzanine-2.jpg" alt="lit dans mezzanine villa"></a>
+					  <a href="images/villa/villa-vue-mer-2.jpg"><img src="images/villa/miniature/villa-vue-mer-2.jpg" alt="vue mer depuis la villa"></a>
+					  <a href="images/villa/villa-vue-mer-3.jpg"><img src="images/villa/miniature/villa-vue-mer-3.jpg" alt="vue sur la baie de malendure depuis la villa"></a>
+				  </div>	
+				
+				</aside>
+
+			</article>
+			
+		</main>
+		<!-- Coeur de la page : Fin-->
+		
+	</div>
+	<!-- Centre de la page : Fin-->
+
+	<!-- Footer : Début-->
+	<footer class="container footer" role="contentinfo">
+		  
+			<div itemscope itemtype="http://schema.org/LocalBusiness" class="container">
+				<span itemprop="name">SCI Gîte bungalow LE NID TROPICAL</span>
+				<span itemprop="description"> - <strong>Hébergement / Location gites et bungalows pour séjour en Guadeloupe</strong></span>
+				<br />					
+				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+					<span itemprop="streetAddress">Morne TARARE </span>- <span itemprop="postalCode">97125</span>
+					<span itemprop="addressLocality">BOUILLANTE </span>-
+					<span itemprop="addressCountry"> Guadeloupe </span>-
+				</address>	
+				Tél./Fax : <span itemprop="telephone" content="+590590987205">05 90 98 72 05</span> - Mobile : <span itemprop="telephone" content="+590690406348">06 90 40 63 48</span>
+				 - <a href="mailto:gite@nidtropical.com" itemprop="email">gite@nidtropical.com</a>
+			</div>
+	</footer>
+	<!-- Footer : Fin-->
+
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/fotorama.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+  ga('create', 'UA-24336933-1', 'nidtropical.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

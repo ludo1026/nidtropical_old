@@ -1,0 +1,43 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	INSTALL
+//---------------------------------------------------------------------------------------------------
+
+1) Modify the vars into the (VARS TO MODIFY) part of the "prive/index.php3" file.
+2) Edit the file "prive/users.txt" to create, modify or delete users. Each line is defined as following :
+root_path;url_of_root;login;password
+Example on a WINDOWS server : D:/www/perso/free/filemanager/demo;http://localhost/perso/free/filemanager/demo;demo;test
+Example on a UNIX server : /var/www/free.fr/1/j/e/f/f/jeffgazet/filemanager/demo;http://jeffgazet.free.fr/filemanager/demo;demo;test
+To desactive an user, add a # at the begining of the line.
+For more details, read the FAQ.
+3) Put all files and directories into the same directory on your server
+4) Write the URL of the "index.php3" script into your web browser
+
+To be informed of the next versions of this script, go to http://www.webjeff.org/langages/php_scripts.htm,
+then click on "Restez informé des mises à jour de ce script" and write your email into the popup window.
+
+Thanks to report me any bugs or suggestions to webmaster@webjeff.org to upgrade this script.
+
+
+//---------------------------------------------------------------------------------------------------
+//	SPECIAL THANKS
+//---------------------------------------------------------------------------------------------------
+
+to Marcin Wabik for POLAND translation
+to Lubomir Troppa for SLOVAK translation
+to Giovanni Ferri for ITALIAN translation
+to Wolfgang Braun for DEUTCH translation
+to Juhan Aasaru for ESTONIAN translation
+to Zygimantas Berziunas for LITHUANIAN translation
+to Lin Song for the CHINESE translation
+to Alexander Stepanets for RUSSIAN translation
+to Attila Pergel for HUNGARY translation

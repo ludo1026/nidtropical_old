@@ -1,0 +1,59 @@
+/* 
+    Document   : style
+    Created on : 26 juil. 2013, 13:35:56
+    Author     : dev
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    background-color: #FFFFCC;
+}
+
+.logo {
+    background-image: url("../images/header/nidtropical.jpg");
+    width: 520px;
+    height: 175px;
+    margin: 0 auto;
+    padding: 125px 65px 20px 125px;
+    color: #333385;
+    font-size: 12px;
+    font-variant: normal;
+}
+
+@media screen and (max-width: 519px) {
+ .logo {
+  display:none;
+ }
+}
+
+
+.courrier {
+    float: left;
+    background-image: url("../images/header/oiseau-courrier.gif");
+    background-repeat: no-repeat;
+    background-position: 20px 0px;
+    padding: 80px 0px 0px 0px;
+    margin: 0 auto;
+}
+
+.img-max-width {
+ width: auto;
+ margin: 0 auto;
+}
+
+footer {
+ margin: 0 auto;
+ border-top: gray dashed 1px;
+}
+
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+ 
+}

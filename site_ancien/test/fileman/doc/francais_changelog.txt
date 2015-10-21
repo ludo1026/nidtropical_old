@@ -1,0 +1,82 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	DERNIERES VERSIONS
+//---------------------------------------------------------------------------------------------------
+
+v1.6	Ajout de la traduction Hongroise.
+	Mise à jour de la traduction Allemande.
+	Possibilité d'enregistrer un fichier en mode édition sans le quitter. Un bouton FERMER a été ajouté.
+	Les documents et images sont affichés dans une fenêtre externe.
+	Téléchargement des fichiers possible.
+	Tous les dossiers du chemin des répertoires sont cliquables pour la navigation (en haut de page).
+	Choix d'affichage des fichiers cachés ou non (un fichier caché commence par un point).
+	Le poids total des fichiers du répertoire est affiché.
+	Ajout de l'icône pour les fichiers FLASH.
+	L'icône des fichiers HTML dépend du navigateur client (IE ou Netscape).
+	Choix de la langue par l'utilisateur.
+
+v1.51	Correction d'une erreur lors d'un upload de fichier avec Windows/EsayPHP.
+	Possibilité d'éditer les fichiers ".inc", ".phtml" et ".sql".
+	Messages d'erreurs inhibés pour la copie si la source n'existe plus.
+	Détails graphiques améliorés.
+	Ajout de la traduction Russe.
+
+v1.5	Possibilité de désactiver des utilisateurs en ajoutant un # en début de ligne (fichier users.txt).
+	Ajout des traductions Chinoises et Lithuaniennes.
+	Ajout des icônes MOV, PDF, AVI, MPG, MPEG
+	Corrections de bugs sur les extensions de fichier et la suppression de répertoires.
+	Indication de l'heure de modification des fichiers.
+	Création d'un template HTML automatique lors de la création d'un fichier .htm ou .html
+	Optimisation du classement des fichiers (c'est maintenant parfait).
+	Ajout de fichiers d'aide.
+
+v1.1	Gestion d'utilisateurs facultative.
+	Meilleur gestion des langues.
+	Choix de la couleur de fond des tableaux, choix de la police des caractères.
+	Amélioration de la FAQ, des noms de fichiers et de la gestion des suppressions de fichiers.
+
+v1.0	Création de fichiers vierges sur le serveur possible.
+	Action "Déplacer" disponible.
+	Les caractères spéciaux <,",> et espacements pour les noms de fichiers et dossiers ne sont plus acceptés.
+	Fichiers d'entête et de bas de page pour personnaliser votre Filemanager.
+	Possibilité de choisir le nombre maximum de caractères pour les noms de fichiers.
+	Tout a ete regroupé definitivement en un seul fichier "index.php3" (excepté les fichiers de langages).	
+	Possibilité d'afficher les messages de confirmation ou non.
+	Optimisation de quelques GIF.
+
+v0.84	Ajout de la fonction "Copier".
+	Ajout des types de fichier DOC et XLS
+	Transfert des fichiers JS en ASCII et édition possible.
+	Ajout des langues allemande, italienne et estonnienne.
+	Pas de retour à la ligne automatique pour l'édition des fichiers.
+	Choix de l'unité pour la taille des fichiers (octets ou bytes) disponible.
+
+v0.8	Gestion d'utilisateurs avec login, mot de passe et répertoire "home"
+	Ajout des types de fichier RAR et GZ
+	Transfert des fichiers TXT, HTML, HTM, PHP, PHP3, HTACCESS, HTPASSWD, PL, CGI en ASCII 
+	(pour éviter les ^M en fin de ligne)
+
+v0.72	Correction d'un bug dans l'édition des pages, la zone de modification se terminait si "</textarea>" se trouvait dans le code
+	Tous les fichiers sont regroupés en un seul : index.php3
+	Correction d'un bug de la fonction "deldir()". La suppression d'un répertoire se faisait 2 fois
+	Ajout d'un lien vers la racine du site
+
+v0.71	Dans le script "editer.php3", le bouton ANNULER était inactif sous Windows
+	Ajout des icônes BMP, PNG, CSS, MP3
+	Ajout des langues Slovaque et Polonais
+	
+v0.7	Ajout de la fonction "Editer"
+	Ajout du gif pour les fichier EXE
+	Les icones sont maintenant cliquables
+	Le chemin complet du répertoire courant ne commence plus à la racine du serveur
+	Le lien vers le dossier parent a été déplacé dans le tableau
+	Modification des couleurs des tableaux

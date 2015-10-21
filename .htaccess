@@ -1,0 +1,112 @@
+
+ErrorDocument 404 /404.html
+ErrorDocument 410 /410.html
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^nidtropical.com$
+RewriteRule ^(.*) http://www.nidtropical.com/$1 [QSA,L,R=301]
+
+Redirect gone /plan-du-site.txt
+Redirect gone /plan-du-site.xml
+Redirect gone /ancien/
+Redirect gone /bungalow/
+Redirect gone /bungalow/index.old.html
+Redirect gone /bungalow/index.html
+Redirect gone /css/test/
+Redirect gone /css/test/test.html
+Redirect gone /css/test/test.old.html
+Redirect gone /css/location-vacances-bouillante.html
+Redirect gone /gite/
+Redirect gone /test/
+Redirect gone /test2/
+Redirect gone /m/
+Redirect gone /m/index.old.php
+Redirect gone /m/test.old.php
+Redirect gone /m/test.php
+Redirect gone /main.css
+Redirect gone /template.html
+Redirect gone /voyage-pas-cher-en-guadeloupe.old.html
+
+RedirectPermanent /location-gites-en-guadeloupe.html http://www.nidtropical.com/location-gites-en-guadeloupe.php
+RedirectPermanent /location-bungalow-guadeloupe.html http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /location-appartements-guadeloupe.html http://www.nidtropical.com/location-appartements-guadeloupe.php
+
+
+RedirectPermanent /ancien/index.php http://www.nidtropical.com/
+RedirectPermanent /ancien/index.html http://www.nidtropical.com/
+RedirectPermanent /bungalow-guadeloupe.htm http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /location-bungalows-bouillante.html http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /location-bungalow-bouillante.html http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /club-plongee-guadeloupe.html http://www.nidtropical.com/plongee-malendure.html
+RedirectPermanent /sejour-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /sejour-en-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /sejours-en-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /vacance-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /vacances-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /vacances-aux-antilles.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /gite-guadeloupe.html http://www.nidtropical.com/location-gites-en-guadeloupe.php
+RedirectPermanent /gites-guadeloupe-bouillante.html http://www.nidtropical.com/location-gites-en-guadeloupe.php
+RedirectPermanent /vacances-famille-guadeloupe.html http://www.nidtropical.com/location-vacances-bouillante.html
+RedirectPermanent /hebergement-bouillante.html http://www.nidtropical.com/location-vacances-bouillante.html
+RedirectPermanent /visites-guadeloupe.html  http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /excursion-en-guadeloupe.html http://www.nidtropical.com/randonnees-en-guadeloupe.html
+RedirectPermanent /croisiere-caraibes.html http://www.nidtropical.com/randonnees-en-guadeloupe.html
+RedirectPermanent /voyages-caraibes.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /visiter-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /location-vacances-en-guadeloupe.html http://www.nidtropical.com/sejour-aux-antilles.html
+RedirectPermanent /sejour-plongee-guadeloupe.html http://www.nidtropical.com/plongee-malendure.html
+RedirectPermanent /plongee-bouillante.html http://www.nidtropical.com/plongee-malendure.html
+RedirectPermanent /hebergement-bouillante.html http://www.nidtropical.com/location-vacances-bouillante.html
+RedirectPermanent /hebergement-en-guadeloupe.html http://www.nidtropical.com/location-vacances-bouillante.html
+RedirectPermanent /vacances-caraibes.html http://www.nidtropical.com/location-vacances-bouillante.html
+RedirectPermanent /location-en-guadeloupe.html http://www.nidtropical.com/
+RedirectPermanent /gite-a-vendre.html http://www.nidtropical.com/
+
+RedirectPermanent /wp-login.php http://www.nidtropical.com/
+
+RedirectPermanent /location-bungalow-guadeloupe.fr http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /plan-du-site.html/ http://www.nidtropical.com/plan-du-site.html
+
+RedirectPermanent /Images/tarif/contrat%20nid%20trop0001.pdf http://www.nidtropical.com/images/tarifs/CONTRAT_DE_LOCATION.pdf
+RedirectPermanent /Images/tarif/contrat%20nid%20trop.pdf http://www.nidtropical.com/images/tarifs/CONTRAT_DE_LOCATION.pdf
+
+RedirectPermanent /index.php?lien=gite-guadeloupe-photos http://www.nidtropical.com/
+RedirectPermanent /bungalows-guadeloupe.html http://www.nidtropical.com/location-bungalow-guadeloupe.php
+RedirectPermanent /contact.html/ http://www.nidtropical.com/contact.php
+
+RewriteRule  ^gite\.html$							/gites-en-guadeloupe.php  [L]
+RewriteRule  ^bungalow\.html$						/bungalow-guadeloupe.php  [L]
+RewriteRule  ^appartement\.html$					/appartements-guadeloupe.php  [L]
+RewriteRule  ^tarifs\.html$							/voyage-guadeloupe.html   [L]
+RewriteRule  ^situation\.html$						/vacances-bouillante.html   [L]
+RewriteRule  ^contact\.html$						/contact.php  [L]
+RewriteRule  ^sejour\.html$							/sejour-antilles.html  [L]
+
+
+# Activer Gzip
+<ifmodule mod_deflate.c>
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/javascript application/javascript text/css application/xhtml+xml text/html text/plain application/json text/xml
+</ifmodule>
+
+# Add Proper MIME-Type for Favicon
+AddType image/x-icon .ico
+
+# Expires headers
+<IfModule mod_expires.c>
+
+ExpiresActive On
+ExpiresByType text/css "access plus 2 months"
+ExpiresByType text/javascript "access plus 12 months"
+ExpiresByType application/x-javascript "access plus 12 months"
+ExpiresByType application/javascript "access plus 12 months"
+ExpiresByType image/x-icon "access plus 12 months"
+ExpiresByType image/png "access plus 2 months"
+ExpiresByType image/gif "access plus 2 months"
+ExpiresByType image/jpeg "access plus 2 months"
+ExpiresByType image/jpg "access plus 2 months"
+ExpiresByType application/x-shockwave-flash "access plus 2 months"
+
+</IfModule>
+

@@ -1,0 +1,316 @@
+<cod1>:sejours-en-guadeloupe</cod1>
+<cod2>:séjour guadeloupe, séjours guadeloupe, sejour guadeloupe, sejours guadeloupe, séjour en guadeloupe, sejour en guadeloupe, séjours en guadeloupe</cod2>
+<cod3>:Séjours en Guadeloupe : offres de location - séjour en Guadeloupe</cod3>
+<cod4>:Séjours en Guadeloupe : durant votre séjour en Guadeloupe, vous pouvez visiter la réservation naturelle de Cousteau. Séjours en Guadeloupe – offres convenables de location saisonnière</cod4>
+<text1>:Passez vos séjours en Guadeloupe à Bouillante avec le Nid Tropical !</text1>
+<text2>:
+Une idée intéressante pour des vacances en famille c’est de visiter la Guadeloupe, mais quelle destination choisir ?<br><br>
+Sylvie et Jean Pierre, les propriétaires du Nid Tropical invitent les amoureux du tourisme vert à passer des <b>séjours fascinants en Guadeloupe</b> à Bouillante, la perle touristique de la région.
+<h2>Séjour en Guadeloupe : découvrez la célèbre réservation naturelle de Cousteau !</h2>
+Situé à 75 km de Pointe-à-Pitre, Bouillante est un des plus anciens villages de la Guadeloupe, son nom provenant des nombreuses sources chaudes qui y jaillissent.<br><br>
+Un séjour en Guadeloupe, à Bouillante c’est une bonne occasion de découvrir les villages de Malendure et de Pigeon avec leurs plages ensoleillées et la célèbre réservation naturelle de Cousteau avec toutes ses merveilles de la faune et flore sous-marines. 
+<h2>Séjour en Guadeloupe : des offres avantageuses de location</h2>
+Le Nid Tropical vous assure pour vos <b>séjours en Guadeloupe</b> des formules avantageuses de location saisonnière et vous proposent des balades croisières en Caraïbes sur le catamaran, des balades en bateau à fond de verre et de goûter le plaisir des plongées sous-marines à Bouillante !
+</text2><eof>
+<cod1>:vacance-guadeloupe</cod1>
+<cod2>:vacance guadeloupe, vacances famille guadeloupe</cod2>
+<cod3>:Vacance en Guadeloupe : bungalows pour des vacances en famille en Guadeloupe</cod3>
+<cod4>:Vacance Guadeloupe : réalisez votre projet de passer vos vacances en famille en Guadeloupe avec le Nid Tropical ! Vacance en Guadeloupe – des offres d’hébergement avantageuses</cod4>
+<text1>:Vacance en Guadeloupe – le meilleur choix pour les amoureux de l’aventure</text1>
+<text2>:
+Si vous êtes passionné du soleil et de l’aventure et si vous êtes toujours attiré par les activités en plein air, une excursion en Guadeloupe c’est tout ce dont vous avez besoin ! Le Nid Tropical vous aide à réaliser votre projet de passer vos <b>vacances en Guadeloupe</b> !
+<h2>Le Nid Tropical : vos vacances en famille en Guadeloupe</h2>
+Les vacances en famille en Guadeloupe vous offrent l’occasion de participer aux fêtes des cuisinières et aux carnavals, aux compétitions sportives de jet-ski ou de cyclisme, de faire des  plongées dans la réservation de Cousteau…
+<h2>Des offres d’hébergement avantageuses pour vacance en Guadeloupe</h2>
+Le Nid Tropical est à votre disposition avec des offres pas chères de location bungalow à Bouillante, la destination parfaite pour faire des balades et des balades croisières sur le catamaran !<br><br>
+Notre formule d’hébergement « Patch » de 2 bungalows bois avec brasseurs d'air et option de climatisation, côte à côte pour 4 ou 6 personnes est bien conçue pour les <b>vacances en famille en Guadeloupe</b> !
+</text2><eof>
+<cod1>:visiter-guadeloupe</cod1>
+<cod2>:visite en guadeloupe, visiter guadeloupe</cod2>
+<cod3>:Visiter Guadeloupe : faites une visite en Guadeloupe et redécouvrez la nature</cod3>
+<cod4>:Visiter Guadeloupe : le Nid Tropical vous propose, pour votre visite en Guadeloupe, un appartement et des bungalows confortables ! Pour visiter la Guadeloupe contactez-nous !</cod4>
+<text1>:Faites une visite en Guadeloupe et redécouvrez la nature !</text1>
+<text2>:
+Vous êtes fatigué à cause de la monotonie de la vie quotidienne, du stress et de la pollution ? Le meilleur remède de s’évader des grandes structures commerciales et du stress quotidien c’est un séjour aux Antilles pour une visite en Guadeloupe, à Bouillante !
+<h2>Le Nid Tropical vous invitent à visiter la Guadeloupe</h2>
+Les propriétaires du Nid Tropical vous invitent à <b>visiter la Guadeloupe</b> afin de découvrir la richesse de la culture créole et la biodiversité guadeloupéenne et vous proposent des offres de location de vacances tout confort !<br><br>
+Les séjours de plongée sous-marine à Bouillante vous feront découvrir un univers fabuleux, rempli de coraux cornes d'élans, gorgones en forme d'éventails jaunes, bruns ou violets et de poissons multicolores.
+<h2>Location de vacances pour votre excursion en Guadeloupe</h2>
+Placé au cœur d'un jardin tropical fleuri, le Nid Tropical vous propose, pour votre <b>visite en Guadeloupe</b>, un appartement de 2 ou 3 chambres et des bungalows confortables à louer :
+<ul>
+	<li>6 bungalows de 3 personnes avec brasseur d'air et option de climatisation</li>
+	<li>4 bungalows climatisés de 4 personnes</li>
+</ul>
+Au Nid Tropical bungalows en Guadeloupe, Bouillante vous trouvez également une cuisine aménagée et complètement équipée,  télévision, accès internet WIFI ADSL gratuit, un parking privé, terrasse, salle d'eau et une machine à laver.
+</text2><eof>
+<cod1>:excursion-en-guadeloupe</cod1>
+<cod2>:excursion en guadeloupe, excursions guadeloupe</cod2>
+<cod3>:Excursion en Guadeloupe : Nid Tropical – excursions en Guadeloupe à Bouillante</cod3>
+<cod4>:Excursion en Guadeloupe : location de bungalows et de gîtes pour des excursions en Guadeloupe à Bouillante. Avec le Nid Tropical vos excursions en Guadeloupe seront fascinantes</cod4>
+<text1>:Pas d'idée pour les vacances ? Faites une excursion en Guadeloupe !</text1>
+<text2>:
+Si vous êtes fatigué et vous rêvez des vacances en pleine nature, loin du bruit et de la pollution des grandes villes, faites une excursion en Guadeloupe afin de remonter votre esprit et votre physique !<br><br>
+Soit que vous préfériez les randonnées, les balades croisières, les plongées ou que vous désiriez tout simplement vous détendre et passer des soirées douces sous un superbe carbet, les <b>excursions en Guadeloupe</b> sont les occasions parfaites d’oublier la fatigue et la monotonie de la vie quotidienne !
+<h2>Excursions en Guadeloupe : location de bungalows et de gîtes à Bouillante</h2>
+Donc, vous vous êtes décidé à vous offrir un inoubliable voyage en Caraïbes, Guadeloupe ! Le Nid Tropical vous accueille avec des services de haute qualité de location de bungalows et de gîtes à Bouillante et vous offrent des solutions de transport !<br><br>
+Le Nid Tropical assure votre location pour une excursion en Guadeloupe : un appartement avec terrasse, des bungalows charmants avec piscine et des gîtes pas chers à Bouillante !
+<h2>Avec le Nid Tropical vos excursions en Guadeloupe seront ravissantes !</h2>
+Tous nos bungalows, l’appartement, le carbet et la piscine, bénéficient d’une vue mer exceptionnelle. Bien sûr, vous bénéficiez d’accès internet WIFI gratuit, télévision et « Loubine » !<br><br>
+Sylvie et Jean Pierre vous accompagnent dans vos <b>excursions en Guadeloupe</b> et vous aident à découvrir les Caraïbes à travers des balades croisières en catamaran ou bien le plaisir de la plongée dans la réserve de Cousteau !
+</text2><eof>
+<cod1>:hebergement-en-guadeloupe</cod1>
+<cod2>:hebergement guadeloupe, hébergements guadeloupe, hébergement guadeloupe, hébergement en guadeloupe, hébergements en guadeloupe</cod2>
+<cod3>:Hébergement en Guadeloupe : offre d’hébergements en Guadeloupe aux prix convenables</cod3>
+<cod4>:Hébergement en Guadeloupe : des offres d’hébergements en Guadeloupe, à Bouillante pour tous les budgets. Hébergement en Guadeloupe : contactez Nid Tropical pour votre réservation</cod4>
+<text1>:Vous êtes à la recherche d’hébergements en Guadeloupe ?</text1>
+<text2>:
+Testez les offres <b>d’hébergements en Guadeloupe</b> à Bouillante du Nid Tropical et vous ne serrez pas déçus !<br><br>
+Situés dans un parc tropical parfaitement entretenu, les bungalows du Nid Tropical offrent aux visiteurs les plus belles vues sur la baie de Malendure et les îlets Pigeon. En plus vous avez l’occasion de vivre la joie des expériences intéressantes au club de plongée ou sur le catamaran.
+<h2>Location de vacances en Guadeloupe aux prix convenables</h2>
+Notre offre d’hébergement en Guadeloupe, à Bouillante répond à tous les besoins et à tous les budgets : 
+<ul>
+	<li>6 bungalows créoles ventilés avec l’option de climatisation mobile</li>
+	<li>4 bungalows climatisés complètement équipés</li>
+	<li>un appartement de standing d'une capacité de 6 à 9 personnes</li>
+</ul>
+Nos formules <b>d’hébergement en Guadeloupe</b> vous assurent également une cuisine américaine,  télévision, accès internet WIFI ADSL gratuit, un parking privé, terrasse, et bien sur salle d'eau et une machine à laver.
+<h2>Hébergement en Guadeloupe : contactez-nous pour votre réservation !</h2>
+N’hésitez pas à contacter Sylvie et Jean Pierre, les propriétaires du Nid Tropical, pour trouver la solution parfaite d’hébergement pour vos vacances en Guadeloupe, Antilles !<br><br>
+Règlement de votre réservation : 30% d'acompte (paiement en ligne CB ou chèque) et la solde à l'arrivée.
+</text2><eof>
+<cod1>:location-en-guadeloupe</cod1>
+<cod2>:location guadeloupe, location en guadeloupe</cod2>
+<cod3>:Location Guadeloupe : vacances aux Antilles, location en Guadeloupe à Bouillante</cod3>
+<cod4>:Location Guadeloupe : confiez votre besoin de location en Guadeloupe au Nid Tropical ! Location en Guadeloupe : bungalows climatisés, gîtes, appartement de vacances tout confort</cod4>
+<text1>:Location de vacances en Guadeloupe à Bouillante</text1>
+<text2>:
+Avec le Nid Tropical la <b>location de vacances en Guadeloupe</b> n’est plus un problème difficile à résoudre !<br><br>
+Pour un séjour agréable en Guadeloupe, une destination intéressante c’est Bouillante, l’un des plus anciens villages de la Guadeloupe, dont le nom provient des nombreuses sources chaudes qui y jaillissent. Située à 75 km de Pointe-à-Pitre, la Bouillante est une commune qui englobe les villages de Malendure et de Pigeon avec leurs plages de sable sombre en face des Ilets de Pigeon.
+<h2>Des offres de location en Guadeloupe pour tous les goûts</h2>
+Confiez votre besoin de location en Guadeloupe au Nid Tropical qui propose des formules variées et convenables de location saisonnière : 
+<ul>
+	<li>des bungalows climatisés de 2 à 4 personnes sous le carbet</li>
+	<li>des gîtes de 2 à 3 personnes avec brasseur d'air et option de climatisation</li>
+	<li>un appartement de vacances de 4 à 9 personnes</li>
+</ul>
+<h2>Une offre de location en Guadeloupe spéciale : la formule « Patch »</h2>
+Une formule parfaite de <b>location en Guadeloupe</b> pour un séjour de plongée c’est l’offre « Patch » de 2 bungalows avec brasseurs d'air et option de climatisation selon votre choix (+ 40€/sem.), côte à côte pour 4 à 6 personnes !
+</text2><eof>
+<cod1>:location-vacances-en-guadeloupe</cod1>
+<cod2>:location saisonniere guadeloupe, location vacances en guadeloupe</cod2>
+<cod3>:Location vacances en Guadeloupe : bungalows - location saisonnière en Guadeloupe</cod3>
+<cod4>:Location vacances en Guadeloupe : formules de location saisonnière de vacances en Guadeloupe aux tarifs dégressifs. Location saisonnière en Guadeloupe – Nid Tropical</cod4>
+<text1>:Location de vacances en Guadeloupe pour une excursion relaxante</text1>
+<text2>:
+Si vous avez planifié pour vos vacances une excursion décontractante et amusante, le Nid Tropical vous accompagne dans votre projet avec des offres de location saisonnière pour vos vacances en Guadeloupe, des balades croisières en Caraïbes sur catamaran ou bien des séjours de plongée à Bouillante.
+<h2>L’offre du Nid Tropical : location de vacances en Guadeloupe, Bouillante</h2>
+<b>Location de vacances en Guadeloupe</b>, aux Antilles : Sylvie et Jean Pierre, les propriétaires du Nid Tropical, invitent les passionnés du tourisme vert à visiter leurs gîtes et leurs bungalows, entièrement rénovés et rééquipés et qui bénéficient d’une des plus belles vues des Antilles sur les îlets Pigeon et la mer des Caraïbes dans la baie de Malendure.
+<h2>Location saisonnière en Guadeloupe : nos engagements de qualité</h2>
+Par nos offres de location saisonnière, nous mettons à votre disposition des bungalows de 30 à 40 m2 avec option de climatisation et des lits confortables de 1 et de 2 personnes, salle d'eau, cuisine complètement équipée : mini-four, frigo-congélateur, grille-pain, cafetière électrique, plaque de cuisson gaz sur terrasse avec un coin repas et hamac pour la sieste.<br><br>
+Optez pour nos formules de <b>location saisonnière de vacances en Guadeloupe</b> afin de profiter des tarifs dégressifs et de la gratuité des suppléments pour adultes et enfants !
+</text2><eof>
+<cod1>:croisiere-caraibes</cod1>
+<cod2>:croisiere caraïbes</cod2>
+<cod3>:Croisière Caraïbes : Nid Tropical, offre de balade croisière en Caraïbes</cod3>
+<cod4>:Croisière Caraïbes : location de vacance et croisière en Caraïbes – des offres avantageuses avec le Nid Tropical. Séjour pour balades croisières en Caraïbes et plongée sous-marine</cod4>
+<text1>:Balade croisière en Caraïbes : offrez-vous des vacances différentes !</text1>
+<text2>:
+Vous voulez passer des vacances de rêve dont vous vous souviendrez toute votre vie dans un coin du monde ou l’industrie n’a pas encore laissé son empreinte morne ? Préparez-vous pour partir en  voyage en Caraïbes !
+<h2>Des vacances au milieu de la nature : plongée et balade croisière en Caraïbes !</h2>
+Une visite en Guadeloupe vous offre les plus captivants moments d’amusement : les carnavals qui défilent dans toutes les communes, les compétitions sportives de jet-ski ou de cyclisme, les fêtes des cuisinières, les clubs de plongée et bien sûr les balades <b>croisières en Caraïbes</b>.
+<h2>Location de vacances et balade croisière en Caraïbes : l’offre du Nid Tropical</h2>
+Durant votre séjour en Guadeloupe, le Nid Tropical vous assure des solutions intéressantes d’hébergement, adaptables à toutes vos demandes : des bungalows et des gîtes pas chers à Bouillante et des offres convenables de location de voiture par ses partenaires.<br><br>
+En plus, Sylvie et Jean Pierre, les propriétaires du Nid Tropical, vous proposent des balades <b>croisières en Caraïbes</b> à bord de leur superbe catamaran de 14 mètres, un Bahia 46, le « Loubine ». Vous bénéficierez de tarifs préférentiels avec nos partenaires et auprès du bateau à fond de verre le « Nautilus ».
+</text2><eof>
+<cod1>:vacances-caraibes</cod1>
+<cod2>:vacances caraïbes</cod2>
+<cod3>:Vacances Caraïbes : passez vos vacances en Caraïbes au Nid Tropical</cod3>
+<cod4>:Vacances Caraïbes : services de location de bungalows, gîtes et appartement pour vos  vacances en Caraïbes ! Nid Tropical vous offre de vraies vacances en Caraïbes à Bouillante</cod4>
+<text1>:Quel trajet choisir pour des vacances inoubliables en Caraïbes ?</text1>
+<text2>:
+Sylvie et Jean Pierre, les propriétaires du Nid Tropical, vous invitent à passer des <b>vacances inoubliables en Caraïbes</b> à Bouillante, la perle touristique de la Guadeloupe et vous proposent des services de location de bungalows, gîtes et appartement.
+<h2>Le Nid Tropical c’est l’option parfaite pour des vacances en Caraïbes</h2>
+Situé au cœur d'un jardin tropical fleuri, agrémenté d'une piscine homologuée et d'un carbet pour vos loisirs, le Nid Tropical c’est l’option parfaite pour des <b>vacances en Caraïbes</b>, étant privilégié par le voisinage de la plage de Malendure et de ses fameux clubs de plongée. 
+<h2>Vacances en Caraïbes : une bonne occasion de découvrir la Guadeloupe</h2>
+Le Nid Tropical c'est aussi une base pour des balades qui vous font découvrir la Guadeloupe, la Basse-Terre : la Soufrière, le domaine de Coluche, le col des Mamelles, les chutes du Carbet et bien d'autres.<br><br>
+Bien sûr, vous ne pouvez pas passer des vacances en Caraïbes sans découvrir le plaisir des balades croisières sur le catamaran de Sylvie et Jean Pierre !
+</text2><eof>
+<cod1>:voyages-caraibes</cod1>
+<cod2>:voyages caraïbes</cod2>
+<cod3>:Voyages caraïbes : hébergement pour vos voyages en Caraïbes, Guadeloupe</cod3>
+<cod4>:Voyages caraïbes : Nid Tropical vous propose pour vos voyages en Caraïbes, des offres de location de gîtes et bungalows. Voyages en Caraïbes - plongées et randonnées</cod4>
+<text1>:Pas de bons plans pour les vacances ? Choisissez les voyages en Caraïbes !</text1>
+<text2>:
+Vous avez besoin des raisons pour faire des <b>voyages en Caraïbes</b> ?<br><br>
+Placée sur l'arc des Petites Antilles, la Guadeloupe est la plus étendue et la plus belle île, battue par l'Atlantique et bercée par la mer des Caraïbes, si ravissante avec ses longues plages et les baies bordées de mangroves et de cocotiers.
+<h2>Voyages en Caraïbes pour les amateurs de plongée et les passionnés de randonnées</h2>
+Les côtes guadeloupéennes offrent aux amateurs de plongée des superbes paysages sous-marins et les passionnés de randonnées apprécieront les pistes couvertes de forêt tropicale qui traversent la Guadeloupe en Basse-Terre.
+<h2>Voyages en Caraïbes : des formules convenables d’hébergement</h2>
+Si vous êtes en train de préparer vos voyages en Caraïbes en recherchant des formules convenables d’hébergements en Guadeloupe, le Nid Tropical est là pour vous aider !<br><br>
+Sylvie et Jean Pierre vous accompagnent dans vos <b>voyages en Caraïbes</b> pour des séjours en Guadeloupe en vous proposant des solutions avantageuses de location de gîtes, bungalows climatisés et appartement.
+</text2><eof>
+<cod1>:sejour-aux-antilles</cod1>
+<cod2>:sejours aux antilles, séjour aux antilles</cod2>
+<cod3>:Séjour aux Antilles : passez vos séjours aux Antilles, en Guadeloupe au Nid Tropical</cod3>
+<cod4>:Séjour aux Antilles : Nid Tropical vous assure pour vos séjours aux Antilles des formules avantageuses de location. Séjour aux Antilles pour faire des balades et des croisières</cod4>
+<text1>:Passez vos séjours aux Antilles, en Guadeloupe avec le Nid Tropical !</text1>
+<text2>:
+Un bon plan pour des vacances au milieu de la nature c’est de passer un <b>séjour aux Antilles</b> pour visiter la Guadeloupe et découvrir la richesse de la flore, de vous détendre avec des balades et des croisières.
+<h2>Séjours aux Antilles : des offres de location saisonnière</h2>
+Le Nid Tropical vous assure pour vos <b>séjours aux Antilles</b>, en Guadeloupe des formules avantageuses de location : des gîtes climatisés et des bungalows avec brasseur d'air et option de climatisation et un appartement tout confort à louer à Bouillante.
+<h2>Contactez le Nid Tropical pour faire votre réservation !</h2>
+N’attardez pas de contacter le Nid Tropical pour votre séjour aux Antilles ! Sylvie et Jean Pierre vous assurent des services d’hébergement aux prix convenables !
+</text2><eof>
+<cod1>:vacances-aux-antilles</cod1>
+<cod2>:vacances en antilles, vacances aux antilles, vacances guadeloupe antilles</cod2>
+<cod3>:Vacances en Antilles : locations de vacances en Guadeloupe aux Antilles</cod3>
+<cod4>:Vacances en Antilles : offre de locations de vacances en Guadeloupe aux Antilles : bungalows et appartement tout confort. Vacances en Guadeloupe aux Antilles - hébergements à Bouillante</cod4>
+<text1>:Si vous êtes à la recherche de l’aventure, passez vos vacances en Antilles !</text1>
+<text2>:
+Si vous êtes amoureux du soleil et de toutes les activités en plein air, les <b>vacances en Guadeloupe aux Antilles</b> vous offrent tout ce dont vous avez besoin pour vous détendre : 
+<ul>
+	<li>club plongée</li>
+	<li>randonnées</li>
+	<li>balades croisières sur le catamaran</li>
+</ul>
+<h2>Le Nid Tropical : hébergements pour vos vacances en Guadeloupe aux Antilles</h2>
+Le Nid Tropical c’est le meilleur choix pour des locations de <b>vacances en Guadeloupe aux Antilles</b> : des bungalows rénovés, un appartement tout confort, une cuisine complètement équipée et accès internet WIFI gratuit !
+<h2>Passez de vraies vacances en Antilles à Bouillante avec le Nid Tropical !</h2>
+Placé au cœur d'un parc exotique fleuri, le Nid Tropical est agrémenté d'une piscine de 11,50 m x 5,50 m, homologuée et contrôlée par la DSDS, de deux barbecues en pierres et d'un carbet de 150m² pour de vraies vacances de détente en Antilles.
+</text2><eof>
+<cod1>:croisiere-en-guadeloupe</cod1>
+<cod2>:croisiere en guadeloupe, croisiere catamaran guadeloupe</cod2>
+<cod3>:Croisière catamaran Guadeloupe : Nid Tropical, balade croisière en Guadeloupe</cod3>
+<cod4>:Croisière en Guadeloupe : Nid Tropical vous propose une balade croisière de rêve sur un catamaran en Guadeloupe. Balade croisière en Guadeloupe aux tarifs préférentiels</cod4>
+<text1>:Balade croisière en Guadeloupe pour découvrir les Antilles</text1>
+<text2>:
+Comment s'évader du stress quotidien et être en forme ? Le Nid Tropical vous offre la solution dont vous avez besoin : une balade croisière à bord d'un catamaran de luxe en Guadeloupe, des vacances aux Antilles, des voyages en Caraïbes… <br><br>
+Sylvie et Jean Pierre vous proposent des balades <b>croisières en Guadeloupe</b>, à bord de leur superbe catamaran de 14 mètres, un Bahia 46, le « Loubine ». 
+<h2>Gagnez des souvenirs inoubliables durant votre balade croisière en Guadeloupe !</h2>
+Au Nid Tropical vous bénéficierez d'une balade croisière sur le catamaran et des offres de location saisonnière à Bouillante aux tarifs convenables : bungalows et gîtes pas chers ou bien un appartement de vacances tout confort pour les randonneurs amoureux du tourisme vert.<br><br>
+Vous passerez des séjours extraordinaires en Guadeloupe, des vacances inoubliables à Bouillante dans un cadre paradisiaque avec une des plus belles vues des Antilles sur les îlets Pigeon et la baie de Malendure dans un quartier calme et résidentiel.
+<h2>Découvrez des beautés uniques !</h2>
+Contactez-nous afin de passer une balade <b>croisière à bord du catamaran en Guadeloupe</b> pour découvrir des eaux paradisiaques sous un beau soleil doré, de vrais petits paradis nichés dans les Caraïbes !
+</text2><eof>
+<cod1>:catamaran-en-guadeloupe</cod1>
+<cod2>:catamaran guadeloupe, catamaran en guadeloupe</cod2>
+<cod3>:Catamaran Guadeloupe : balade croisière à bord d'un catamaran en Guadeloupe</cod3>
+<cod4>:Catamaran Guadeloupe : le Nid Tropical vous propose un voyage à bord du catamaran en Guadeloupe. Croisière sur le catamaran en Guadeloupe si vous êtes à la recherche d'aventures</cod4>
+<text1>:Nid Tropical - balade croisière sur le catamaran luxueux en Guadeloupe</text1>
+<text2>: 
+Sylvie et Jean Pierre, les propriétaires du Nid Tropical, vous proposent des vacances aux Antilles, des formules d’hébergements pour tous les budgets et des balades croisières à bord de leur <b>catamaran « Loubine » en Guadeloupe</b>.
+<h2>Balade croisière sur le catamaran en Guadeloupe pour des séjours de rêve</h2>
+Optez pour une balade croisière sur un <b>catamaran en Guadeloupe</b>, afin de découvrir une palette de paysages exotiques : des plages bordées de cocotiers et des forêts tropicales, des savanes ou des bananeraies !
+<h2>Balade croisière sur un catamaran en Guadeloupe rythmée par le souffle des alizés</h2>
+Bercée par une douceur toute créole, la Guadeloupe offre un véritable paradis au charme indolent, balayé par la caresse des alizés. Passez des séjours inoubliables en Guadeloupe avec le Nid Tropical.
+</text2><eof>
+<cod1>:club-plongee-guadeloupe</cod1>
+<cod2>:club plongee guadeloupe, club de plongée guadeloupe</cod2>
+<cod3>:Club de plongée Guadeloupe : hébergement, club de plongée en Guadeloupe</cod3>
+<cod4>:Club de plongée Guadeloupe : trouvez un club de plongée en Guadeloupe – avec le Nid Tropical. Club de plongée en Guadeloupe – bénéficiez de tarifs préférentiels</cod4>
+<text1>:Nid Tropical et ses partenaires vous invitent au club de plongée en Guadeloupe !</text1>
+<text2>:
+Le Nid Tropical vous propose pour vos séjours de plongée des services de location des bungalows ventilés et climatisés à Bouillante et vous invite à passer des moments de détente dans les <b>clubs de plongée en Guadeloupe</b> aux tarifs préférentiels.
+<h2>Club de plongée en Guadeloupe - pour évader du stress quotidien</h2>
+Le club de plongée vous fait découvrir les beautés de la nature : plus d’une centaine de variétés d’éponges, de coraux, de bancs de poissons de toutes sortes. Ainsi, toutes les rencontres sont possibles : raies, tortues, dauphins…
+<h2>Club de plongée en Guadeloupe – un vrai paradis des plongeurs</h2>
+Situé dans un cadre paradisiaque à 40 mètres d'altitude avec une des plus belles vues des Antilles sur la baie de Malendure et les îlets Pigeon, l’emplacement du Nid Tropical vous permet de visiter la fameuse réserve de Cousteau, un vrai paradis des plongeurs dans la mer des Caraïbes.<br><br>
+<b>Club de plongée en Guadeloupe</b> : contactez-nous afin de réserver votre location de vacances !
+</text2><eof>
+<cod1>:sejour-plongee-guadeloupe</cod1>
+<cod2>:séjour plongée guadeloupe, sejour plongee guadeloupe</cod2>
+<cod3>:Séjour plongée Guadeloupe : le Nid Tropical, séjour de plongée en Guadeloupe</cod3>
+<cod4>:Séjour plongée Guadeloupe : êtes-vous intéressé par un séjour de plongée en Guadeloupe ? Le Nid Tropical vous propose un séjour de plongée en Guadeloupe à Bouillante</cod4>
+<text1>:Le Nid Tropical – un partenaire sérieux pour votre séjour de plongée en Guadeloupe</text1>
+<text2>:
+Souhaitez-vous faire un <b>séjour de plongée en Guadeloupe</b> ? Le Nid Tropical vous propose ses partenaires privilégiés :
+<ul>
+	<li>Centre des îlets Jaco NADAL - club de plongée en Guadeloupe</li>
+	<li>CIP Club de plongée.</li>
+</ul>
+<h2>Séjour de plongée en Guadeloupe, dans la réserve de Cousteau</h2>
+Un <b>séjour de plongée en Guadeloupe</b>, dans la réserve Cousteau, vous donne la chance de découvrir les coraux cornes d'élans, les gorgones en forme d'éventails jaunes, bruns ou violets, cerveaux de Vénus… des paysages uniques, dont vous vous souviendrez toute votre vie. 
+<h2>Location de bungalows pour vos séjours de plongée en Guadeloupe</h2>
+Le Nid Tropical se met à votre service avec des bungalows et des gîtes pas chers à Bouillante qui se plient le mieux à vos exigences et des solutions avantageuses de location de voiture par ses partenaires !
+</text2><eof>
+<cod1>:gites-guadeloupe-bouillante</cod1>
+<cod2>:gite guadeloupe bouillante, gites guadeloupe bouillante</cod2>
+<cod3>:Gîtes Guadeloupe Bouillante : location de gîte en Guadeloupe, Bouillante - Nid Tropical</cod3>
+<cod4>:Gîte Guadeloupe Bouillante : location de gîtes en Guadeloupe, à Bouillante ! Le Nid Tropical vous accueille dans leurs gîtes en Guadeloupe, à Bouillante</cod4>
+<text1>:Nid Tropical – location de gîte en Guadeloupe, à Bouillante</text1>
+<text2>:
+Sylvie et Jean Pierre, vous assurent des services de location d’appartement et de <b>gîtes en Guadeloupe, à Bouillante</b> et des offres de location de voitures par leurs partenaires.<br><br>
+Ainsi, durant vos excursions en Guadeloupe, vous allez vous reposer dans des intérieurs charmants avec brasseur d'air et option de climatisation, salle d'eau et une cuisine hospitalière, prévue avec tout le nécessaire pour des repas savoureux !
+<h2>Gîte en Guadeloupe, à Bouillante - location saisonnière</h2> 
+Le Nid Tropical vous propose une formule avantageuse d’hébergement pour vos visites en Guadeloupe : location « Patch » de 2 bungalows bois avec brasseurs d'air et option climatisation selon votre choix (+ 40€/sem.), côte à côte pour 4 à 6 personnes !
+<h2>Location de gîte à Bouillante avec l’option de demi-pension</h2>
+En plus, nos offres de location de <b>gîte en Guadeloupe</b>, à Bouillante incluent des suppléments pour les adultes et les enfants ou vous pouvez opter pour la demi-pension avec les petits lolos à 300m du Nid Tropical.
+</text2><eof>
+<cod1>:bungalows-guadeloupe</cod1>
+<cod2>:bungalow guadeloupe bouillante, bungalows guadeloupe bouillante</cod2>
+<cod3>:Bungalows Guadeloupe Bouillante : location de bungalow Guadeloupe, Bouillante</cod3>
+<cod4>:Bungalow Guadeloupe Bouillante : Nid Tropical – services de location de bungalows en Guadeloupe, à Bouillante. Testez nos offres de bungalows en Guadeloupe, à Bouillante</cod4>
+<text1>:Le Nid Tropical – location de bungalow en Guadeloupe, à Bouillante</text1>
+<text2>:
+Sylvie et Jean Pierre, les propriétaires du Nid Tropical, vous accueillent dans leurs <b>bungalows</b> rénovés et rééquipés, en Guadeloupe, à Bouillante, ainsi que dans leur appartement de standing.<br><br>
+Nos offres d’hébergement de vacance en Guadeloupe, à Bouillante vous invitent à passer des moments privilégiés dans un cadre exotique au-dessus de la baie de Malendure :
+<ul>
+	<li>6 bungalows avec brasseur d'air et option de climatisation de 3 personnes</li>
+	<li>4 bungalows climatisés de 4 personnes</li>
+</ul>
+<h2>Bungalow en Guadeloupe, à Bouillante – bénéficiez du confort !</h2>
+Tous nos bungalows en Guadeloupe, à Bouillante, bénéficient d’une vue exceptionnelle sur la mer des Caraïbes ! Vous avez un accès Internet WIFI gratuit. Si vous n'avez pas emmené votre portable nous vous proposons un accès au bureau selon notre convenance. 
+<h2>Location de Bungalow en Guadeloupe, à Bouillante aux prix compétitifs</h2>
+Au Nid Tropical vous bénéficierez de vacances aux Antilles et d‘offres de location saisonnière aux tarifs convenables : <b>bungalows pas chers en Guadeloupe</b>, à Bouillante, des gîtes ou bien un appartement de vacances tout confort pour les randonneurs passionnés du tourisme vert.
+</text2><eof>
+<cod1>:location-bungalows-bouillante</cod1>
+<cod2>:location bungalow bouillante</cod2>
+<cod3>:Location bungalow Bouillante : le Nid Tropical, location bungalow Bouillante</cod3>
+<cod4>:Location bungalow Bouillante : consultez nos offres de location de bungalow à Bouillante ! Le Nid Tropical – location de bungalow à Bouillante tout confort</cod4>
+<text1>:Nid Tropical – services de location de bungalow à Bouillante</text1>
+<text2>:
+Sylvie et Jean Pierre vous proposent plusieurs formules de location avec vue exceptionnelle sur la mer des Caraïbes :
+<ul>
+	<li><b>location de bungalow à Bouillante</b> - avec brasseur d'air et option climatisation de 3 personnes</li>
+	<li>4 Bungalows climatisés de 4 personnes</li>
+	<li>appartement de standing de 4, 6 ou 9 personnes avec brasseurs d'air et climatisation, composé de 2 chambres + 2 salles d'eau WC et d'une grande cuisine américaine tout confort sur la terrasse.</li>
+</ul>
+<h2>Location de bungalow à Bouillante, en Guadeloupe aux prix avantageux</h2>
+Au Nid Tropical vous pouvez profiter des séjours en Guadeloupe et des offres de <b>location de bungalow à Bouillante</b> aux tarifs convenables.<br><br>
+De plus, le Nid Tropical se trouve au cœur d'un jardin tropical fleuri, agrémenté d'une piscine homologuée et contrôlée par la DASS tous les mois de 11,50 m x 5,50 m et d'un carbet de 150m² pour vos loisirs.
+<h2>Location de bungalow à Bouillante, boutiques et restaurants, bateaux à fonds de verre</h2>
+Tous les bungalows avec chambres climatisées allient charme, confort et qualité : la plage de Malendure et la fameuse réserve Cousteau à  proximité de nos locations, club de plongée en Guadeloupe, boutiques et restaurants, bateaux à fonds de verre, etc.<br><br> 
+Contactez-nous et réservez votre location de bungalow à Bouillante pour vos voyages en Caraïbes en famille ou avec vos amis !
+</text2><eof>
+<cod1>:plongee-bouillante</cod1>
+<cod2>:plongée bouillante</cod2>
+<cod3>:Plongée Bouillante : le Nid Tropical, découvrez la plongée à Bouillante</cod3>
+<cod4>:Plongée Bouillante : dans la réserve de Cousteau, Malendure plongée à Bouillante. Trouvez un club de plongée à Bouillante, en Guadeloupe – avec le Nid Tropical</cod4>
+<text1>:Plongée à Bouillante - des séjours inoubliables en Guadeloupe</text1>
+<text2>:
+Rêvez-vous de plonger dans une mer chaude et cristalline, de nager avec des poissons tropicaux ?<br><br>
+Le Nid Tropical vous propose de visiter Guadeloupe pour passer des séjours <b>plongée à Bouillante</b> ou bien pour faire des randonnées et des balades croisières sur le catamaran.
+<h2>Séjour de plongée à Bouillante : bungalow climatisé en Guadeloupe</h2>
+Afin de réserver un bungalow climatisé ou bien un « Patch » de 2 bungalows bois à Bouillante, Guadeloupe, il faut seulement avancer 30% d'acompte chèque ou paiement CB téléphonique sécurisé et le solde à l'arrivée.
+<h2>Plongée à Bouillante – formules avantageuses de location</h2>
+<ul>
+	<li>-20% en basse saison du 16/05 au 05/07</li>
+	<li>-15% en moyenne saison du 06/07 au 31/08 vous renseigner</li>
+</ul>
+N’hésitez pas et rejoignez-nous pour des séjours inoubliables de <b>plongée à Bouillante</b> !
+</text2><eof>
+<cod1>:randonnees-en-guadeloupe</cod1>
+<cod2>:randonnee en guadeloupe, randonnees en guadeloupe, balade en guadeloupe</cod2>
+<cod3>:Randonnées en Guadeloupe : souvenir, randonnée et balade en Guadeloupe</cod3>
+<cod4>:Randonnée en Guadeloupe : le Nid Tropical – location pour vos randonnées et balades en Guadeloupe. Plan de vacances : randonnée, balade en Guadeloupe</cod4>
+<text1>:Séjours de randonnées et de balade en Guadeloupe</text1>
+<text2>: 
+Appelée « Karukera » (l'île aux belles eaux) par les Amérindiens, la Guadeloupe est réputée pour la beauté sauvage de ses sites naturels. Le Parc National de la Guadeloupe protège l'une des forêts les plus préservée des Petites Antilles.<br><br> 
+Les 250 Km de traces et de sentiers de balades et <b>randonnées en Guadeloupe</b> vous mènent au milieu de la forêt tropicale.
+<h2>Randonnée et balade en Guadeloupe – location de gîtes et de bungalows à Bouillante</h2>  
+Si vous êtes à la recherche d’offres avantageuses de location pour vos séjours de randonnée et de balade en Guadeloupe testez les formules de location des bungalows proposées par le Nid Tropical !
+<h2>Nid Tropical : balades et randonnées en Guadeloupe</h2>  
+Nos offres de location de gîtes et de bungalow créoles bois à Bouillante vous proposent des chambres de 30 m2 avec option de climatisation, un lit de 2 personnes et un lit superposé pour une personne, salle d'eau WC et bien sûr une cuisine complètement équipée.<br><br>
+Si vous êtes intéressé des <b>randonnées en Guadeloupe</b>, contactez-nous et vous bénéficierez de tarifs attractifs !
+</text2>
+<eof>

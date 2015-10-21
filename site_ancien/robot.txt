@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css
+Disallow: /en
+Disallow: /enimages
+Disallow: /images
+Sitemap: http://www.nidtropical.com/sitemap.xml
+

@@ -1,0 +1,7 @@
+DirectoryIndex index.html
+ErrorDocument 404 http://www.nidtropical.com
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule index.php index.html
+RewriteCond %{HTTP_HOST} ^nidtropical.com$
+RewriteRule ^(.*) http://www.nidtropical.com/$1 [QSA,L,R=301]

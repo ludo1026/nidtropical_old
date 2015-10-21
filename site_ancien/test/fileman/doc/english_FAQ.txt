@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------------------------------
+//							
+//	WebJeff - FileManager v1.6
+//	
+//	Jean-François GAZET
+//	http://www.webjeff.org
+//	webmaster@webjeff.org	
+//
+//---------------------------------------------------------------------------------------------------
+
+//---------------------------------------------------------------------------------------------------
+//	F.A.Q.
+//---------------------------------------------------------------------------------------------------
+
+- I don't know what is my "root_path", what can i do ?
+Put a PHP script on your web site whith the following code : <? phpinfo(); ?>
+Copy the path next to the var "OPEN_BASEDIR". (Without the last "/", if there is one).
+If you see "no value", then look for PATH_TRANSLATED (without the trailing filename).
+Example : PATH_TRANSLATED is d:\www\phpinfo.php3
+The root path will be d:/www
+If your host hide those variables, chooser another host !  ;o)
+
+- My login and passwords are right but i'm redirected to the "index.php3" page ?
+The var "$installurl" is invalid, check it in the "prive/conf.php3" file.
+
+- What is the directory "logs" for ?
+It contains files with users parameters. Those log files are created at each connection and deleted at each deconnection,
+or 24 hours laters if not.
+
+- An error occured after uploading files.
+If your PHP version is greater or equal to 4.0.3, try this line :
+if (!copy($userfile, "$destination/$userfile_name"))
+instead of :
+if (!move_uploaded_file($userfile, "$destination/$userfile_name"))
+in the "index.php3" file.
+
+- An error occured after uploading files on a Windows NT server !
+In the PHP.INI you must specify the upload_tmp_dir, ie to C:\TEMP. 
+Also, in some versions of PHP, you must set magic_quotes_gpc to Off.
+
+- I can't upload files greater than 2 Mb !
+You need to increase the "upload_max_filesize" value in the PHP.INI file. It is set to 2097152 bytes (2 Mb) by default.
+Don't forget to increase "max_execution_time", in order to avoid time outs from sever.
+To upload large files, check also "post_max_size" and "memory_limit".
